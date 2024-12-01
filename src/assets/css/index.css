@@ -1,12 +1,12 @@
 :root {
-  --primary: "#9966ff";
-  --fill-primary: "#ffff";
-  --text: "#3c3c43";
-  --text-title: "#8076a3";
-  --text-subtitle: "#958bb2";
-  --text-secondary: "#a9a2c1";
-  --text-placeholder: "#beb8d0";
-  --text-link: "#a174f3";
-  --fill: "#ffff";
-  --fill-body: "#f7f9fe";
+  --primary: #9966ff;
+  --fill-primary: #ffff;
+  --text: #3c3c43;
+  --text-title: #8076a3;
+  --text-subtitle: #958bb2;
+  --text-secondary: #a9a2c1;
+  --text-placeholder: #beb8d0;
+  --text-link: #a174f3;
+  --fill: #ffff;
+  --fill-body: #f7f9fe;
 }
